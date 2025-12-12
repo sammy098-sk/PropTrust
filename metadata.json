@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NaijaPropTrust",
+  "description": "Nigeria's most trusted property marketplace. Verified listings, video tours, and secure connections for renters and buyers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
